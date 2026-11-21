@@ -1,4 +1,4 @@
-# App vecinal · Hackathon El Comercio (Shabat Shalom)
+# App vecinal · Winki
 
 App de servicios, solidaridad y emergencias para vecinos, pensada para funcionar **con y sin
 conexión**. Monorepo con el backend (NestJS), la app (Flutter), el contrato de la API, la
